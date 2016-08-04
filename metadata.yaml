@@ -1,0 +1,40 @@
+_repo: The-Tragedy-of-Pudd-nhead-Wilson_102
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Clemens, Samuel Langhorne
+    - Twain, Mark (Samuel Clemens)
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: American humorist and literary master Mark Twain takes on tough issues
+  like slavery, race, and the ugliness that can lurk beneath the surface of rural
+  life in this novel. An interwoven tale of three families whose fates are thrown
+  together in the aftermath of a murder, The Tragedy of Pudd'nhead Wilson is one of
+  Twain's more serious works, although it is told with the same love of quirky misfits
+  and wonderful observations that enliven books like The Adventures of Tom Sawyer
+  and ...
+gutenberg_issued: '2004-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '102'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trials (Murder) -- Fiction'
+- !lcsh 'Impostors and imposture -- Fiction'
+- !lcsh 'Infants switched at birth -- Fiction'
+- !lcsh 'Missouri -- Fiction'
+- !lcsh 'Race relations -- Fiction'
+- !lcsh 'Legal stories'
+- !lcsh 'Passing (Identity) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Tragedy of Pudd'nhead Wilson
+url: http://www.gutenberg.org/ebooks/102
